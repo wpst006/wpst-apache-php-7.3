@@ -1,3 +1,3 @@
 <?php
-echo "Hi wpst (code build)";
+echo "Hi wpst (code build) 001";
 ?>
